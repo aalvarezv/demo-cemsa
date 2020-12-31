@@ -179,7 +179,7 @@ const SolicitudRepuestos = () => {
             }
             <Button 
                 className="mt-2 mb-5"
-                variant="success"
+                variant="info"
                 onClick={handleEnviar}
                 block
             >Enviar Solicitud</Button>
